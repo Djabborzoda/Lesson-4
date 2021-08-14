@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\massiv\Project\bin\Debug\net5.0\Project.exe
+C:\Users\user\Desktop\massiv\Project\bin\Debug\net5.0\Project.deps.json
+C:\Users\user\Desktop\massiv\Project\bin\Debug\net5.0\Project.runtimeconfig.json
+C:\Users\user\Desktop\massiv\Project\bin\Debug\net5.0\Project.runtimeconfig.dev.json
+C:\Users\user\Desktop\massiv\Project\bin\Debug\net5.0\Project.dll
+C:\Users\user\Desktop\massiv\Project\bin\Debug\net5.0\ref\Project.dll
+C:\Users\user\Desktop\massiv\Project\bin\Debug\net5.0\Project.pdb
+C:\Users\user\Desktop\massiv\Project\obj\Debug\net5.0\Project.csprojAssemblyReference.cache
+C:\Users\user\Desktop\massiv\Project\obj\Debug\net5.0\Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\massiv\Project\obj\Debug\net5.0\Project.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\massiv\Project\obj\Debug\net5.0\Project.AssemblyInfo.cs
+C:\Users\user\Desktop\massiv\Project\obj\Debug\net5.0\Project.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\massiv\Project\obj\Debug\net5.0\Project.dll
+C:\Users\user\Desktop\massiv\Project\obj\Debug\net5.0\ref\Project.dll
+C:\Users\user\Desktop\massiv\Project\obj\Debug\net5.0\Project.pdb
+C:\Users\user\Desktop\massiv\Project\obj\Debug\net5.0\Project.genruntimeconfig.cache
